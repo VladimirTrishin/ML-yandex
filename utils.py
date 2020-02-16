@@ -7,7 +7,6 @@ def answer(name, answer):
     with open('./answers/' + name, 'w+') as f:
         f.write(answer)
 
-
 def load_file(name, url):
     try:
         with open(name) as f:

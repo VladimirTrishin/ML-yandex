@@ -1,8 +1,7 @@
 # ML Yandex
-There is representation of task from [Yandex ML course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/info)
+This repository contains my solutions to all the programming exercises for [Yandex ML course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/info)
 
-
-Lessons:
+Exercises:
 1. pandas
 2. decision tree
 3. kNN classification
